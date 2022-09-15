@@ -1,0 +1,15 @@
+C:\source\depos\Lab2JonathanSchemppClairDeLune\bin\Debug\net6.0\Lab2JonathanSchemppClairDeLune.exe
+C:\source\depos\Lab2JonathanSchemppClairDeLune\bin\Debug\net6.0\Lab2JonathanSchemppClairDeLune.deps.json
+C:\source\depos\Lab2JonathanSchemppClairDeLune\bin\Debug\net6.0\Lab2JonathanSchemppClairDeLune.runtimeconfig.json
+C:\source\depos\Lab2JonathanSchemppClairDeLune\bin\Debug\net6.0\Lab2JonathanSchemppClairDeLune.dll
+C:\source\depos\Lab2JonathanSchemppClairDeLune\bin\Debug\net6.0\Lab2JonathanSchemppClairDeLune.pdb
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\Lab2JonathanSchemppClairDeLune.csproj.AssemblyReference.cache
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\Lab2JonathanSchemppClairDeLune.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\Lab2JonathanSchemppClairDeLune.AssemblyInfoInputs.cache
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\Lab2JonathanSchemppClairDeLune.AssemblyInfo.cs
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\Lab2JonathanSchemppClairDeLune.csproj.CoreCompileInputs.cache
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\Lab2JonathanSchemppClairDeLune.dll
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\refint\Lab2JonathanSchemppClairDeLune.dll
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\Lab2JonathanSchemppClairDeLune.pdb
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\Lab2JonathanSchemppClairDeLune.genruntimeconfig.cache
+C:\source\depos\Lab2JonathanSchemppClairDeLune\obj\Debug\net6.0\ref\Lab2JonathanSchemppClairDeLune.dll

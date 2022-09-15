@@ -1,0 +1,58 @@
+﻿int A = 440;
+int B = 494;
+int C = 262;
+int D = 294;
+int E = 330;
+int F = 349;
+int G = 392;
+
+int HA = 880;
+int HB = 987;
+int HC = 523;
+int HD = 587;
+int HE = 659;
+int HF = 699;
+int HG = 784;
+
+int LB = 247;
+
+int WholeNote = 2500; 
+
+Console.Beep(HG,WholeNote/3); 
+Console.Beep(HE,WholeNote);
+Console.Beep(HD,WholeNote/4);
+Console.Beep(HE,WholeNote/4);
+Console.Beep(HD,WholeNote);
+Console.Beep(HC,WholeNote/4);
+Console.Beep(HD,WholeNote/4);
+Console.Beep(HC,WholeNote/4);
+Console.Beep(HE,WholeNote/4);
+Console.Beep(HC,WholeNote/2);
+Console.Beep(B,WholeNote/4);
+Console.Beep(HC,WholeNote/4);
+Console.Beep(B,WholeNote/3);
+//Console.Beep(1,WholeNote/4);
+Console.Beep(A,WholeNote/4);
+Console.Beep(B,WholeNote/4);
+Console.Beep(A,WholeNote/4);
+Console.Beep(HD,WholeNote/4);
+Console.Beep(A,WholeNote/4);
+Console.Beep(G,WholeNote/4);
+Console.Beep(A,WholeNote/4);
+Console.Beep(G,WholeNote/2);
+Console.Beep(F,WholeNote/4);
+Console.Beep(G,WholeNote/4);
+Console.Beep(F,WholeNote/3);
+Console.Beep(E,WholeNote);
+Console.Beep(E,WholeNote/4);
+Console.Beep(F,WholeNote/4);
+Console.Beep(E,WholeNote/4);
+Console.Beep(A,WholeNote/4);
+Console.Beep(E,WholeNote/4);
+Console.Beep(D,WholeNote/4);
+Console.Beep(E,WholeNote/4);
+Console.Beep(D,WholeNote/2);
+Console.Beep(C,WholeNote/4);
+Console.Beep(D,WholeNote/4);
+Console.Beep(C,WholeNote/3);
+Console.Beep(LB,WholeNote/3);
